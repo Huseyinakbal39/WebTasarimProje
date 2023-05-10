@@ -8,3 +8,41 @@
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
     }
+div.galeri {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+    }
+      
+div.galeri:hover {
+    border: 1px solid #777;
+    }
+      
+div.galeri img {
+    width: 100%;
+    height: auto;
+    }
+      
+div.desc {
+    padding: 15px;
+    text-align: center;
+    }
+div.carousel-item {
+    width: 100%;
+    height: 100%;
+}
+div.carousel-item :active{
+    width: 100%;
+    height:100%;
+}
+div.col
+{
+    background-color: antiquewhite;
+}
+#sehir{
+    background-color:azure;
+}
+div.row{
+    background-color: aliceblue;
+}

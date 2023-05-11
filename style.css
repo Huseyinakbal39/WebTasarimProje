@@ -28,21 +28,40 @@ div.desc {
     padding: 15px;
     text-align: center;
     }
-div.carousel-item {
-    width: 100%;
-    height: 100%;
+div.col#ust{
+    background-color: lightgray;
 }
-div.carousel-item :active{
-    width: 100%;
-    height:100%;
-}
-div.col
-{
-    background-color: antiquewhite;
-}
+
 #sehir{
-    background-color:azure;
+    background-color:aliceblue;
+   
+    background-repeat: no-repeat;
+    background-size: 10%;
+
 }
 div.row{
-    background-color: aliceblue;
+    background-color: azure;
+}
+#foto{
+    height: auto;
+}
+#foto1{
+    height: auto;
+}
+h1{
+    color: darkred;
+}
+#ust{
+    background-color: lightgray;
+}
+#kart
+{
+    position: absolute;
+    left: 350px;
+    top: 2100px;
+}
+#kartkiz{
+    position: absolute;
+    left: 200px;
+    
 }

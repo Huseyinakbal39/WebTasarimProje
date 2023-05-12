@@ -63,5 +63,24 @@ h1{
 #kartkiz{
     position: absolute;
     left: 200px;
+}
+#ozgecmis{
+    background-color: lightgray;
+}
+#index{
+    background-color: lightgray;
+}
+#ilgi{
+    background-color: aliceblue;
+}
+#ilgibc{
     
+}
+.col-md-10 mx-auto{
+    background-size: 25%;
+}
+.column{
+    float:left;
+    width: 33.3%;
+    padding: 5px;
 }

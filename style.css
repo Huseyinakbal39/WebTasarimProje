@@ -54,16 +54,7 @@ h1{
 #ust{
     background-color: lightgray;
 }
-#kart
-{
-    position: absolute;
-    left: 350px;
-    top: 2100px;
-}
-#kartkiz{
-    position: absolute;
-    left: 200px;
-}
+
 #ozgecmis{
     background-color: lightgray;
 }
@@ -72,9 +63,6 @@ h1{
 }
 #ilgi{
     background-color: aliceblue;
-}
-#ilgibc{
-    
 }
 .col-md-10 mx-auto{
     background-size: 25%;

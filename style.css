@@ -1,13 +1,4 @@
-.gradient-custom {
-    /* fallback for old browsers */
-    background: #6a11cb;
-    
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
-    
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
-    }
+
    
 div.desc {
     padding: 15px;
@@ -30,7 +21,17 @@ div.desc {
     border:4px solid #000;
     padding:8px;-moz-border-radius: 10px;-webkit-border-radius: 10px;border-radius: 10px;
 }
-div.row{
+
+div#row1{
+    background-color: azure;
+}
+div#row2{
+    background-color: azure;
+}
+div#row3{
+    background-color: azure;
+}
+div#row4{
     background-color: azure;
 }
 #foto{
@@ -61,7 +62,7 @@ h1{
 }
 #miras{
     background-color: yellow;
-    background-image: url(fotograflar/fener.jpg);
+    background-image: url(fotograflar/fenerbahce.jpg);
     background-size: 13%;
 }
 #mirash{
@@ -71,3 +72,9 @@ p#miras
 {
     color: darkblue;
 }
+body#login{
+    background-image: url("fotograflar/winter.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+  }

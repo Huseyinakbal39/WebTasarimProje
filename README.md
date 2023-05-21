@@ -5,12 +5,12 @@
 
 ##Ozgecmisim.html Özgeçmişim sayfasında eğitim bilgilerimi yazarak kendim hakkında bir sayfa oluşturdum.
 
-##Sehrim.html Şehrim sayfasında şu anda yaşadığım ve büyüdüğüm şehir olan Nevşehir’i ve Nevşehir’deki gezilecek görülecek önemli yerleri resimler ve linkler kullanarak tanıttım.
+##Sehrim.html Şehrim sayfasında büyüdüğüm şehir olan İstanbul'u ve İstanbul'daki gezilecek görülecek önemli yerleri resimler ve linkler kullanarak tanıttım.
 
-##Mirasimiz.html Mirasımız sayfasında Nevşehir’in simgesi olan Kapadokya’yı resimler ve linkler kullanarak tanıttım.
+##Mirasimiz.html Mirasımız sayfasında Fenerbahçe'yi resimler kullanarak tanıttım.
 
 ##IlgiAlanlarim.html İlgi Alanlarım sayfasında hobilerimi resimler , linkler ve verilerek göstererek anlattım.
 
-##Login.html Login sayfasında siteyi ziyaret eden kişi için kullanıcı adı: g201210062@sakarya.edu.tr ve şifresi: g201210062 ile giriş sayfası oluşturdum.
+##Login.html Login sayfasında siteyi ziyaret eden kişi için kullanıcı adı: g211210069@sakarya.edu.tr ve şifresi: g211210069 ile giriş sayfası oluşturdum.
 
 ##Iletisim.html İletişim sayfasında siteyi ziyaret eden kişinin hakkındaki bilgileri form elemanları kullanarak istedim .
